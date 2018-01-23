@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/live%20demo-active-brightgreen.svg?style=flat-square)](https://digital-splicer-114902.appspot.com/#/)
+
 Conference Organization App
 ===========================
 
@@ -17,8 +19,6 @@ Supporting Course:
 The deliverable for this project is largely in the form of API endpoints for Conference Central, an application code-base provided by Udacity. These endpoints were created using `Google Cloud Endpoints` on the `Google App Engine` platform, and are only accessible using the `Google APIs Explorer`. Integrating these endpoints into the Conference Central front-end is not part of this project. 
 
 Most of the code in this project was provided by Udacity and does not reflect my coding style or abilities. To highlight my contributions I have included references in this README to the functions, classes, etc... that I created to complete the project.
-
-Visit [Conference Central](https://digital-splicer-114902.appspot.com/)
 
 Tasks
 -----
